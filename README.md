@@ -43,4 +43,4 @@ The purporse of the Project is to give assitance to The Disaster Reporting Netwo
 
 - Dark View Map all layers
 
-![Earthquake_Map_dark_view](https://user-images.githubusercontent.com/98929742/168439798-dfa660a9-fcf6-4127-8843-c16ec2dec0ad.jpg)
+![Earthquake_Map_dark_view](https://user-images.githubusercontent.com/98929742/168439891-c58d52fb-6152-4d75-b1c1-b07689370e81.jpg)
